@@ -1,3 +1,3 @@
 @echo off
 
-node index.js
+node index1.1.js
