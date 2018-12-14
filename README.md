@@ -6,4 +6,4 @@ Create a discord bot and place the token in `token.txt`.  On Windows either run 
 
 On Linux and Mac run `node index1.1.js`
 
-Please note that this module requires `discord.js`
+Please note that this bot requires `discord.js`
